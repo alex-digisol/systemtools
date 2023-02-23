@@ -1,3 +1,3 @@
-module github.com/Learningbes/systemtools
+module github.com/alex-digisol/systemtools
 
 go 1.19
